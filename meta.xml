@@ -1,0 +1,15 @@
+<meta>
+
+    <script src="arguments.lua" type="client" cache="false"></script>
+    <script src="utils.lua" type="client" cache="false"></script>
+    <script src="main.lua" type="client" cache="false"></script>
+    <script src="server.lua" type="server" cache="false"></script>
+
+    <file src="public/*.png"/>
+    <file src="public/*.mp3"/>
+    <file src="public/*.wav"/>
+
+    <export function="addBox" type="shared"></export>
+    <export function="addBoxNightly" type="shared"></export>
+    <export function="updateBoxDetails" type="client"></export>
+</meta>
