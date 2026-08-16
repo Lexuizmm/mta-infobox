@@ -33,8 +33,6 @@ exports.infobox:addBox("info", "created CreativeMTA or lexuizm!")
 
 ---
 
-[center]
-[img]https://i.imgur.com/LUjsdBU.png[/img]
-[/center]
+![MTA Infobox Preview](https://i.imgur.com/LUjsdBU.png)
 
 
