@@ -31,6 +31,8 @@ exports.infobox:addBox("info", "created CreativeMTA or lexuizm!")
 
 "error" ❌ — Error or failure messages
 
+---
+
 [center]
 [img]https://i.imgur.com/LUjsdBU.png[/img]
 [/center]
